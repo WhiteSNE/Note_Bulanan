@@ -1,6 +1,6 @@
-# 💰 Celengan Mahasiswa
+# 💰 Celengan
 
-**Celengan Mahasiswa** adalah aplikasi *Expense Tracker* (Pencatat Keuangan) berbasis **Flutter** yang dirancang khusus untuk membantu mahasiswa mengelola arus kas bulanan, menabung untuk barang impian (Wishlist), dan memantau kesehatan finansial melalui grafik interaktif.
+**Celengan** adalah aplikasi *Expense Tracker* (Pencatat Keuangan) berbasis **Flutter** yang dirancang khusus untuk mengelola arus kas bulanan, menabung untuk barang impian (Wishlist), dan memantau kesehatan finansial melalui grafik interaktif.
 
 Aplikasi ini dibuat dengan fokus pada *User Experience* (UX), persistensi data lokal, dan antarmuka yang modern.
 
